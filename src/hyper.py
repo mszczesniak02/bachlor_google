@@ -1,9 +1,0 @@
-MASK_PATH = "../assets/datasets/DeepCrack/train_lab"
-IMAGE_PATH = "../assets/datasets/DeepCrack/train_img"
-DEVICE = "cpu"
-WORKERS = 4
-BATCH_SIZE = 2
-PIN_MEMORY = True
-LEARNING_RATE = 1e-3
-WEIGHT_DECAY = 1e-5
-EPOCHS = 3
